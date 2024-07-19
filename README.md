@@ -16,3 +16,9 @@
 [러쉬](rush.md)   
 [명오](myungoh.md)   
 [초코칩](chocochip.md)   
+
+## 담당 코치
+워니   
+공원   
+구구   
+네오
